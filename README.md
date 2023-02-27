@@ -1,5 +1,5 @@
 ````
-echo loading profile information...
+loading profile information...
 ````
 
 <h2>Hi! I'm David aka Dyarven.</h2>
