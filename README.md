@@ -4,7 +4,8 @@ loading profile information...
 <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
 
 <h2>Hi! I'm David aka Dyarven.</h2>
-**I'll post all my crazy ideas and perhaps even useful scripts here :P**
+
+<h3>I'll post all my crazy ideas and perhaps even useful scripts here :P</h3>
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
