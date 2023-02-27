@@ -3,9 +3,9 @@ loading profile information...
 ````
 
 <h2>Hi! I'm David aka Dyarven.</h2>
-
+[![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-castro-vilas/)](https://www.linkedin.com/in/david-castro-vilas/)
 **I'll post all my crazy ideas and perhaps even useful scripts here :P**
-
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 
