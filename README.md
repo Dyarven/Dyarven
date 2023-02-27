@@ -3,7 +3,7 @@ loading profile information...
 ````
 
 <h2>Hi! I'm David aka Dyarven.</h2>
-<a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi"/></a>&nbsp;
 
 **I'll post all my crazy ideas and perhaps even useful scripts here :P**
 <br/>
