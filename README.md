@@ -3,7 +3,8 @@ loading profile information...
 ````
 
 <h2>Hi! I'm David aka Dyarven.</h2>
-[![Linkedin: David](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-castro-vilas/)](https://www.linkedin.com/in/david-castro-vilas/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 **I'll post all my crazy ideas and perhaps even useful scripts here :P**
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
