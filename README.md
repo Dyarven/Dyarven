@@ -5,8 +5,7 @@ loading profile information...
 
 <h2>Hi! I'm David aka Dyarven.</h2>
 
-<h3>I'll post all my crazy ideas and perhaps even useful scripts here :P</h3>
-<br/>
+<h5>I'll post all my crazy ideas and perhaps even useful scripts here :P</h5>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
