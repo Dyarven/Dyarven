@@ -3,7 +3,8 @@ loading profile information...
 ````
 
 <h2>Hi! I'm David aka Dyarven.</h2>
-***I'll post all my crazy ideas and perhaps even useful scripts here :P***
+
+##I'll post all my crazy ideas and perhaps even useful scripts here :P
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 
