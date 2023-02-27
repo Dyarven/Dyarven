@@ -4,12 +4,15 @@ loading profile information...
 
 <h2>Hi! I'm David aka Dyarven.</h2>
 **I'll post all my crazy ideas and perhaps even useful scripts here :P**
+
 <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/dyarven/github-readme-stats)
+<br/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
+
 
 ### Languages and Tools:
 
