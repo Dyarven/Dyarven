@@ -2,9 +2,9 @@
 loading profile information...
 ````
 
-<h2>Hi! I'm David aka Dyarven. <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>&nbsp;</h2>
-
+<h2>Hi! I'm David aka Dyarven.</h2>
 **I'll post all my crazy ideas and perhaps even useful scripts here :P**
+<a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
