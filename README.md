@@ -8,8 +8,8 @@ loading profile information...
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/dyarven/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/dyarven/github-readme-stats)
 
 
 ### Languages and Tools:
