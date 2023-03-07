@@ -11,7 +11,7 @@ loading profile information...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyarven&layout=compact&hide=css,html&theme=transparent)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyarben&layout=compact)](https://github.com/dyarven/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyarven&layout=compact)]
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
