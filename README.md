@@ -9,7 +9,7 @@ loading profile information...
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyarven&layout=compact&hide=css,html&theme=transparent)]
 
 ### Languages and Tools:
