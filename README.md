@@ -5,7 +5,7 @@ loading profile information...
 
 <h2>Hi! I'm David aka Dyarven.</h2>
 
-<b>I'll post all my ideas and perhaps even useful scripts here :P</b>
+<b>I'll post all my ideas and perhaps even useful scripts here</b>
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
