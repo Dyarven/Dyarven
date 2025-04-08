@@ -11,7 +11,7 @@ loading profile information...
 
 ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 <br/>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyarven&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyarven&layout=compact&hide-css)
 
 ### Languages and Tools:
 
