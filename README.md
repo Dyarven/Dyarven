@@ -2,9 +2,6 @@
 loading profile information...
 ````
 <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
-<br/>
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/davidcastro2804.png)
-
 <h2>Hi! I'm David aka Dyarven.</h2>
 
 <b>I'll post all my ideas and perhaps even useful scripts here</b>
@@ -14,6 +11,8 @@ loading profile information...
 ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 <br/>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyarven&layout=compact)
+<br/>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/davidcastro2804.png)
 
 ### Languages and Tools:
 
