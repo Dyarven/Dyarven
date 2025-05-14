@@ -2,7 +2,7 @@
 loading profile information...
 ````
 <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/davidcastro2804.png)
+![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/davidcastro2804.png" alt="Your Image Badge" />)
 
 
 <h2>Hi! I'm David aka Dyarven.</h2>
