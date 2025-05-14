@@ -11,8 +11,6 @@ loading profile information...
 ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dyarven&show_icons=true&theme=transparent)
 <br/>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyarven&layout=compact)
-<br/>
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/davidcastro2804.png)
 
 ### Languages and Tools:
 
