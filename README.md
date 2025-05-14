@@ -2,6 +2,7 @@
 loading profile information...
 ````
 <a href="https://linkedin.com/in/david-castro-vilas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="apoorvtyagi" width="100px"/></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4726886" style='border:none;'></iframe>
 
 <h2>Hi! I'm David aka Dyarven.</h2>
 
