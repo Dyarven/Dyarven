@@ -8,17 +8,5 @@ loading profile information...
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<div align="center" style="display: flex; gap: 1rem; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=tokyonight&border_color=2F3136" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyarven&layout=compact&theme=tokyonight&border_color=2F3136" alt="Top Languages" />
-</div>
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="RedHat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+![stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=tokyonight&border_color=2F3136&height=200px)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyarven&layout=compact&theme=tokyonight&border_color=2F3136&height=200px)
