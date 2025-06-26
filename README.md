@@ -8,5 +8,5 @@ loading profile information...
 <br/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dyarven&show_icons=true&theme=tokyonight&border_color=2F3136&height=200px)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyarven&layout=compact&theme=tokyonight&border_color=2F3136&height=200px)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dyarven&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=ayu-mirage">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyarven&layout=compact&theme=ayu-mirage">
