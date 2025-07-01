@@ -23,5 +23,5 @@ loading profile information...
 <a href="https://github.com/dyarven">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dyarven&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=ayu-mirage">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyarven&layout=compact&theme=ayu-mirage">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dyarven&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=ayu-mirage">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dyarven">
 </a>
